@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CSmokeConcept</string>
+
+    <string name="bulleted_list">
+        <li>First item</li>\n
+        <li>Second item</li>\n
+        <li>Third item</li>
+    </string>
+</resources>
